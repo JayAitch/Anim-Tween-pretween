@@ -9,6 +9,7 @@ import aurelienribon.tweenengine.TweenAccessor;
  */
 
 public class TweenDataAccessor implements TweenAccessor<TweenData>{
+
     public final int TYPE_POS = 1;
     public static final int TYPE_SCALE = 2;
     public static final int TYPE_COLOUR = 3;

@@ -8,6 +8,7 @@ import aurelienribon.tweenengine.TweenManager;
  */
 
 public class UniversalResource {
+
     //common objects
     public TweenManager tweenManager;
     //singleton things

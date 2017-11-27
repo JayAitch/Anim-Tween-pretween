@@ -8,6 +8,7 @@ import com.badlogic.gdx.math.Vector2;
  */
 
 public class TweenData {
+
     private Vector2 xy;
     private Color colour;
     private float scale;
